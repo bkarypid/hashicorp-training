@@ -6,7 +6,7 @@ Setting up a Git Repository
 
 1. Run
 
-        $ git initsfsf
+        $ git initsfsfsdfsdfsdf
 
 1. Run
 
